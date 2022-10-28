@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+![image](https://user-images.githubusercontent.com/6372185/198566607-9b3c1847-eca9-4124-9004-55419775a213.png)
+
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
